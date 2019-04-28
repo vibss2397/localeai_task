@@ -1,0 +1,7 @@
+flask
+numpy
+psycopg2
+flask-bcrypt
+pyjwt
+Flask-SQLAlchemy
+flask-migrate
